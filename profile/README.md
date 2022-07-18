@@ -1,9 +1,9 @@
 <p align="center">
   <img width="150" height="150" src="https://backostech.com/wp-content/uploads/2022/07/cropped-ezop3.png">
-  <h1 align="center">Welcome to <a href="https://backostech.com">Backos Technologies</a></h1>
+  <h1 align="center">𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 <a href="https://backostech.com">𝔹𝕒𝕔𝕜𝕠𝕤 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤</a></h1>
   
   ```
-                                                    A Tech You Can Trust
+                                                    ᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴛʀᴜsᴛ
   ```
 </p>
 
@@ -17,14 +17,15 @@ Backos Technologies is a technology company striving for success, composed of vi
 * Quality Oriented
 * በጥራት አንደራደርም!!
 * We provide quality services and products.
-
 ```
+
 <img align="left" width="75" height="75" src="https://img.icons8.com/clouds/100/000000/rocket.png"/>
 
 ```
 * Fast
 * ጊዜ ተመን የማይወጣለት ውድ ሀብት ነው!! 
-* That's why, with the help of our young and energetic staffs we are able to provide a very fast and reliable services.
+* That's why, with the help of our young and energetic staffs,
+  we are able to provide a very fast and reliable services.
 ```
 
 <img align="left" width="75" height="75" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-binoculars-outdoor-kiranshastry-lineal-color-kiranshastry.png"/>
