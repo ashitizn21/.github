@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" src="https://backostech.com/wp-content/uploads/2022/07/cropped-ezop3.png">
+  <img width="150" height="150" src="https://github.com/backostech/.github/raw/main/profile/logo.png">
   <h1 align="center">𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 <a href="https://backostech.com">𝔹𝕒𝕔𝕜𝕠𝕤 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤</a></h1>
   
   ```
